@@ -3,6 +3,10 @@
 A full-stack URL shortener and analytics platform. This repository contains the **backend** built with **Node.js**, **Express**, and **MongoDB**, designed to work alongside a React frontend.
 
 ---
+# Video Link
+
+https://drive.google.com/file/d/1ecrHu3H5cfksxxkSXcRpHmGEhLC8QYxz/view?usp=sharing
+
 
 ## 🧩 Tech Stack
 
