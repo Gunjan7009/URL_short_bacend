@@ -1,0 +1,47 @@
+{
+  "name": "url_shortener",
+  "version": "1.0.0",
+  "description": "shortening long urls into small url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-1839/url-shortener.git"
+  },
+  "keywords": [
+    "url",
+    "shortener"
+  ],
+  "author": "Abhishek Singh Tomar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek-1839/url-shortener/issues"
+  },
+  "homepage": "https://github.com/Abhishek-1839/url-shortener#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.1",
+    "nanoid": "^5.0.7",
+    "node-cron": "^3.0.3",
+    "nodemailer": "^6.9.15",
+    "request-ip": "^3.3.0",
+    "shortid": "^2.2.16",
+    "useragent": "^2.3.0",
+    "valid-url": "^1.0.9",
+    "vite": "^5.4.3"
+  },
+  "devDependencies": {
+    "express": "^4.19.2",
+    "express-device": "^0.4.2",
+    "nodemon": "^3.1.4"
+  }
+}
