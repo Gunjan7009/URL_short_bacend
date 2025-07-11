@@ -2,6 +2,8 @@
 
 A full-stack URL shortener and analytics platform. This repository contains the **backend** built with **Node.js**, **Express**, and **MongoDB**, designed to work alongside a React frontend.
 
+Deployed url - https://url-short-bacend.vercel.app/
+
 ---
 # Video Link
 
